@@ -10,7 +10,7 @@ void main() {
           Icons.games,
         ),
         title: Text(
-          'Reback',
+          'ID Card',
           style: TextStyle(
             fontStyle: FontStyle.italic,
             fontSize: 20.0,
